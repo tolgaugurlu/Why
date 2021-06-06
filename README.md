@@ -10,7 +10,7 @@
 Eğer şu an buraları inceliyor ve okuyorsan muhtemelen Siber Güvenlik ve Yazılım alanına ilgi duyuyor olmalısın. Telaş yapma doğru yerdesin 
 Ben ve benim gibilerin temel amacı başlangıç aşamasında olan, kendini geliştirmeye çalışan, nereden başlayacağını bilmeyen kişileri doğru yönlendirmek ve bilinçlendirmektir. Yukarıdaki adreslerden destek çıkarak daha fazla ve farklı konularda bilgi edinebilirsin. Şimdi hazırsan yavaş yavaş başlayalım.
 
-Genel anlamda sorulan soruları ele alacağım. Birçok kullanıcı buradan verim elde edecektir bundan eminim. İlerleyen zamanlarda güncellenerek farklı link ve projeleri de beraberinde yayınlayacağım.                                                                                                                         
+Genel anlamda sorulan soruları ele alacağım. Birçok kullanıcı buradan verim elde edecektir bundan eminim. İlerleyen zamanlarda güncelleyerek farklı link ve projeleri de beraberinde yayınlayacağım.                                                                                                                         
 
 
 
