@@ -151,6 +151,7 @@ Bu konuda birçok kaynak var aslında: Python, JavaScript, C/C++, Bash Scripting
 
 **Evet,** İngilizce maalesef zorunlu.
 Okuduğunu anlayacak seviyede İngilizce diline hakim olmalısın. Ne yazık ki başka bir yolu yok bunun. 
+İnsanlık tarihinin çok büyük bir bölümünde yazı yoktu. Sonradan icat edildi. Hepimiz anadilimizi dinleyerek öğrendik. Yani insan beyni dili dinleyerek öğrenmeye koşullanmış. Dolayısıyla dil öğrenmenin temeli dinleme, işitmedir. Yapılan araştırmalar da işitsel öğrenmenin çok daha verimli olduğunu gösteriyor. Buna bağlı olarak dil öğrenirken başlangıç noktamız her zaman dinleme olmalı. uzunca bir süre dile harcanın zamanın çoğunluğu dinlemeye ayrılmalı. kullandığımız kaynaklar dinleme üzerine kurulu olmalı veya mutlaka ses desteği içermeli. Önce bir süre metin üzerinden öğrenip sonra kayıtları olan metinler, kaynaklar kullanmalısınız. Çalıştığınız materyali çok kez, tekrar tekrar dinlemelisinz. 
 Dizileri yabancı alt yazı izleyerek gelişebilirsin.
 Buradan da öğrenim sağlayabilirsin;
 [Eğitim İçin](https://www.voscreen.com/).
