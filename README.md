@@ -178,11 +178,11 @@ Kurulum ve giriş için şurayı inceleyebilirsin;
 
 **BugBounty için Öneriler;**
 
-[Portswigger](https://portswigger.net/web-security).
+- [Portswigger](https://portswigger.net/web-security).
 
-[Bugcrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/).
+- [Bugcrowd](https://www.bugcrowd.com/hackers/bugcrowd-university/).
 
-[Hacker101](https://www.hacker101.com/).
+- [Hacker101](https://www.hacker101.com/).
 
 **Awesome serisi; (İngilizce Kaynaklar)**
 
