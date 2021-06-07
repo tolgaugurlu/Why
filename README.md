@@ -1,6 +1,8 @@
 # "Why" Cyber Security
 
 
+![github discord](https://user-images.githubusercontent.com/85436268/121015028-394ee300-c7a3-11eb-9732-ce20e660d63a.png)
+
 - Discord : [Katıl](https://discord.gg/G3cZhgkB)
 - Instagram : [Takip Et](https://www.instagram.com/lpuess/)
 
