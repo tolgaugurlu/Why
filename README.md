@@ -16,7 +16,7 @@ Genel anlamda sorulan soruları ele alacağım. Birçok kullanıcı buradan veri
 
 
 
-# Yazılım Nedir?
+# `Yazılım Nedir?`
 
 Yazılım, bütün belgeleriyle birlikte (fizibilite, yönetim, araştırma, belirtim, tasarım, geliştirme, test, bakım v.b.) sunulan bilgisayar programıdır. 
 
