@@ -1,12 +1,12 @@
 # "Why" Cyber Security
 
 
-![github discord](https://user-images.githubusercontent.com/85436268/121015028-394ee300-c7a3-11eb-9732-ce20e660d63a.png)
+![insta2pro](https://user-images.githubusercontent.com/85436268/121016610-00b00900-c7a5-11eb-86f0-92412f5ba046.png) [Takip Et](https://www.instagram.com/lpuess/) 
 
-- Discord : [Katıl](https://discord.gg/G3cZhgkB)
-- Instagram : [Takip Et](https://www.instagram.com/lpuess/)
+![github discord](https://user-images.githubusercontent.com/85436268/121015028-394ee300-c7a3-11eb-9732-ce20e660d63a.png) [Katıl](https://discord.gg/G3cZhgkB)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Image of Yaktocat](https://i.pinimg.com/originals/5b/8d/a8/5b8da86ac33383e5d9480acf3e14b088.jpg)
 
  **Herkese Merhaba**,
 Eğer şu an buraları inceliyor ve okuyorsan muhtemelen Siber Güvenlik ve Yazılım alanına ilgi duyuyor olmalısın. Telaş yapma doğru yerdesin 
@@ -104,7 +104,7 @@ Eskiye nazaran şu an kullanılan Masaüstü ve Laptop bilgisayarlar arasında n
 **Bu işin bir yaşı var mı?**
 
 Arkadaşlar,
-Teknoloji sürekli olarak yenilenen, gelişen, devamlı olarak ilerleyen bir alandır. Durmaz ve tekrar etmez, daima yenilenir. Bu yüzden ayak uydurmak ve öğrenmek için belirli bir sınır ya da rant yok. İster 12-13 yaşında ol ister 40. Önemli olan husus ne kadar hevesli ve hırslı olduğundur. Bu yüzden “x” yaşındayım erken mi? Geç mi? Gibi sorular anlamsız 
+Teknoloji sürekli olarak yenilenen, gelişen, devamlı olarak ilerleyen bir alandır. Durmaz ve tekrar etmez, daima yenilenir. Bu yüzden ayak uydurmak ve öğrenmek için belirli bir sınır ya da rant yok. İster 12-13 yaşında ol ister 40. Önemli olan husus ne kadar hevesli ve hırslı olduğundur. Bu yüzden “x” yaşındayım erken mi? Geç mi? Gibi sorular anlamsız.
 
 
 **Kod/Algoritma bütünlüklerine ücretsiz erişilebilir mi?**
@@ -192,7 +192,7 @@ Buradan gerekli sistem ve bilgiye sahip olabilirsin;
 [Linux101](https://egitim.acikkaynakfikirler.com/linux101-landing/).
 
 
-**Penster olmak istiyorum. Bu benim ilgi duyduğum alan;**
+**Pentester olmak istiyorum. Bu benim ilgi duyduğum alan;**
 
 [HackTheBox](https://www.hackthebox.eu/).
 buradan gerekli koşulları sağlayarak kayıt olabilir ve pentesting alanında ilerleyebilirsin. 
