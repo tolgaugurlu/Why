@@ -1,9 +1,7 @@
-# "Why" Cyber Security
+# Cyber Security
 
 
-![insta2pro](https://user-images.githubusercontent.com/85436268/121016610-00b00900-c7a5-11eb-86f0-92412f5ba046.png) [Takip Et](https://www.instagram.com/lpuess/) 
 
-![github discord](https://user-images.githubusercontent.com/85436268/121015028-394ee300-c7a3-11eb-9732-ce20e660d63a.png) [Katıl](https://discord.gg/G3cZhgkB)
 
 
 ![Image of Yaktocat](https://i.pinimg.com/originals/5b/8d/a8/5b8da86ac33383e5d9480acf3e14b088.jpg)
@@ -220,12 +218,3 @@ Kurulum ve giriş için şurayı inceleyebilirsin;
 - **Awesome Hacking;**  [Hacking](https://github.com/carpedm20/awesome-hacking#readme).
 
 - **Awesome Security;**  [Security](https://github.com/sbilly/awesome-security#readme).
-
-
-
-
-
-
-# FARKLI KONU VE ÖNERİLER İÇİN DİSCORD #ÖNERİLER BÖLÜMÜNE YAZABİLİRSİNİZ.
-
-# WHY? 
