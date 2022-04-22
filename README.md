@@ -8,7 +8,7 @@
 
  **Herkese Merhaba**,
 Eğer şu an buraları inceliyor ve okuyorsan muhtemelen Siber Güvenlik ve Yazılım alanına ilgi duyuyor olmalısın. Telaş yapma doğru yerdesin 
-Ben ve benim gibilerin temel amacı başlangıç aşamasında olan, kendini geliştirmeye çalışan, nereden başlayacağını bilmeyen kişileri doğru yönlendirmek ve bilinçlendirmektir. Yukarıdaki adreslerden destek çıkarak daha fazla ve farklı konularda bilgi edinebilirsin. Şimdi hazırsan yavaş yavaş başlayalım.
+Ben ve benim gibilerin temel amacı başlangıç aşamasında olan, kendini geliştirmeye çalışan, nereden başlayacağını bilmeyen kişileri doğru yönlendirmek ve bilinçlendirmektir.
 
 Genel anlamda sorulan soruları ele alacağım. Birçok kullanıcı buradan verim elde edecektir bundan eminim. İlerleyen zamanlarda güncelleyerek farklı link ve projeleri de beraberinde yayınlayacağım.                                                                                                                         
 
@@ -93,7 +93,6 @@ Yazılım ya da Siber Güvenlik alanında olmak demek, hayatının %90’ını y
 Eskiye nazaran şu an kullanılan Masaüstü ve Laptop bilgisayarlar arasında neredeyse hiç fark yok diyebilirim. Bu yüzden Yazılımcılar ve Programcılar genellikle Laptop tercih eder. Bunun en önemli sebeplerinden bazıları; seyyar olabilmek, bağlı kalmamak, taşınabiliyor olması, hızlı ve kullanışlı olması. Bundan dolayı Laptop, bu mecrada iş yapanlar için biçilmiş kaftandır. 
 
 **Laptop Önerileri;**
-- HP Spectre x360 
 - Apple MacBook Air (2020)
 - Lenovo ThinkPad x1 Extreme
 - MacBook Pro İntel i5 (2020)
